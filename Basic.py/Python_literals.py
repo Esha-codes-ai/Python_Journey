@@ -1,0 +1,13 @@
+10          # Integer
+3.14        # Float
+2+3j        # Complex
+0b1010      # Binary
+0o12        # Octal
+0xA         # Hexadecimal
+"Hello"     # String
+True        # Boolean
+None        # Special
+[1,2,3]     # List
+(1,2,3)     # Tuple
+{1,2,3}     # Set
+{"a":1}     # Dictionary
