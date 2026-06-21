@@ -11,3 +11,14 @@ None        # Special
 (1,2,3)     # Tuple
 {1,2,3}     # Set
 {"a":1}     # Dictionary
+# octal literals in python
+# They are fixed with 0o
+
+a=0o25 # 2*8+5*8=16+5=21
+print(a)
+# Hexadecimal literals in python 
+a=0xFB
+print(a)
+# Binary Literals 
+a=0b1000
+print(a)
