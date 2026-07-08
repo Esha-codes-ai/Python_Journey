@@ -9,3 +9,5 @@ del Photos["city"]
 print(Photos)
 del Photos["Nature"]
 print(Photos)
+del Photos # to delete the entire dictionary 
+print(Photos)
