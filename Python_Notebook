@@ -1,0 +1,89 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyNItLJcEtHWykwQGlu7nbra",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Esha-codes-ai/Python_Journey/blob/main/Python_Notebook\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 1,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "89Nr_7W1En2n",
+        "outputId": "8efe4b2a-0dea-4409-88d4-5534902b0327"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Hello World, welcome to my python journey\n"
+          ]
+        }
+      ],
+      "source": [
+        "# 01_First Program\n",
+        "print(\"Hello World, welcome to my python journey\")"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# 02_Whats your name\n",
+        "Name=input(\"Enter your name\")\n",
+        "print(\"My name is :\", Name)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "lKGrXKq5E1lI",
+        "outputId": "c8a5abdd-9755-4172-e222-a9449539dd6a"
+      },
+      "execution_count": 2,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Enter your nameEsha\n",
+            "My name is : Esha\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "SfN_DLEvFFZg"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
